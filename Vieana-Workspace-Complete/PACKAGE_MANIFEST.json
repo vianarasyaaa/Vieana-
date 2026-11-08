@@ -1,0 +1,11 @@
+{
+  "all_files": 4084,
+  "source_files": 3849,
+  "testing_files": 164,
+  "build_files": 11,
+  "documentation_files": 59,
+  "original_crates": 32,
+  "original_crate_rust_sources": 826,
+  "original_archive_rust_sources": 862,
+  "original_gpu_wgsl": 28
+}
